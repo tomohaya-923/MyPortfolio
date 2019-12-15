@@ -20,7 +20,7 @@ function toggleMenu() {
 
         //       Set Menu State
         showMenu = true;
-        
+
     } else {
         menuBtn.classList.remove("close");
         menu.classList.remove("show");
